@@ -1,0 +1,53 @@
+/* .container {
+  box-shadow: 1px 9px 17px -3px rgba(0,0,0,0.75);
+  margin: 100px 300px 0px 300px;
+  border-radius: 10px;
+} */
+
+.container-button {
+  box-shadow: 1px 9px 17px -3px rgba(0,0,0,0.75);
+  margin: 100px 300px 100px 300px;
+  border-radius: 10px;
+}
+
+.card {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 20px;
+  border-bottom: 3px solid grey;
+}
+
+.desc {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-bottom: 20px;
+}
+
+.list-data span {
+  font-weight: 700;
+}
+
+.notice {
+  color: red;
+}
+
+.count {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.count-button {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.count-button button {
+  width: 95%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0px 2px 3px 0px #000000;
+}
+
+.count-button button:hover {
+  cursor: pointer;
+}
